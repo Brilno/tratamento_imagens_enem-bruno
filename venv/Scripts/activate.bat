@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Administrador\tratamento_imagens_enem-bruno\venv
+set VIRTUAL_ENV=C:\Users\Administrador\tratamento_imagens_enem-bruno\.git\tratamento_imagens_enem-bruno\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
